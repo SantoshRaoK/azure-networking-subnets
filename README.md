@@ -50,31 +50,32 @@ from that subnet's address range.
 
 ### 1. Create Virtual Network - Basic Configuration
 
-<img width="953" height="536" alt="Create Virtual Network Basics" src="img2_create_vnet.png" />
+<img width="953" height="536" alt="Screenshot 2026-05-19 165317" src="https://github.com/user-attachments/assets/02a2c5e3-f021-4f44-90c9-9b5b467edd97" />
 
 ### 2. VNet Deployment Complete
 
-<img width="959" height="535" alt="VNet Deployment Complete" src="img3_deployment_complete.png" />
+<img width="959" height="535" alt="Screenshot 2026-05-19 165416" src="https://github.com/user-attachments/assets/f712a5b3-6daa-4b3b-a2cd-69c519f93e61" />
 
 ### 3. Subnets View — sub-net1 and sub-net2 Created
 
-<img width="959" height="535" alt="vnet1 Subnets" src="img4_vnet_subnets2.png" />
+<img width="955" height="539" alt="Screenshot 2026-05-20 114741" src="https://github.com/user-attachments/assets/9921b5e0-db54-45b3-b60f-9ee370f61a94" />
 
 ### 4. Create VM — Basics Tab
 
-<img width="959" height="535" alt="Create VM Basics" src="img5_create_vm_basics.png" />
+<img width="955" height="535" alt="Screenshot 2026-05-20 115423" src="https://github.com/user-attachments/assets/22275fb8-ce1d-44f6-ae00-90f9661b64d6" />
 
 ### 5. VM Networking — Selecting sub-net2
 
-<img width="959" height="535" alt="VM Subnet Selection" src="img6_vm_networking1.png" />
+<img width="959" height="533" alt="Screenshot 2026-05-20 115510" src="https://github.com/user-attachments/assets/332cdba3-3460-49e9-986d-191a489f1f04" />
 
 ### 6. VM Networking — sub-net2 Confirmed
 
-<img width="959" height="535" alt="VM Subnet Confirmed" src="img7_vm_networking2.png" />
+<img width="959" height="536" alt="Screenshot 2026-05-20 115529" src="https://github.com/user-attachments/assets/bf54a846-b9a9-4ece-82be-517e6805a560" />
 
 ### 7. VM Network Settings — Subnet Assignment Verified
 
-<img width="959" height="535" alt="VM Network Settings" src="img8_vm_network_settings.png" />
+<img width="959" height="536" alt="Screenshot 2026-05-20 115758" src="https://github.com/user-attachments/assets/a10f0e49-2412-40d9-ab2a-8de0b5765d1e" />
+
 
 ## Key Concepts Learned
 
