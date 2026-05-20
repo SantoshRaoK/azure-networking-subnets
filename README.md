@@ -8,6 +8,10 @@ Deploy and manage Azure Subnets inside a Virtual Network including creating
 multiple subnets, understanding IP address ranges, and assigning a Virtual 
 Machine to a specific subnet for AZ-104 exam preparation.
 
+## Architecture Diagram
+<img width="299" height="237" alt="image" src="https://github.com/user-attachments/assets/0f20a5c1-408c-417f-ab46-6189be739bd9" />
+
+
 ## Environment
 - Microsoft Azure Free Account
 - Resource Group: rg1
